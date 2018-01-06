@@ -18,7 +18,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #2dc997;
+  color: #22dc98;
   outline: none;
   text-decoration: none;
 }
@@ -528,7 +528,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #2dc997;
   font-size: 24px;
 }
-
 #about .about-container .icon-box .title {
   margin-left: 80px;
   font-weight: 500;

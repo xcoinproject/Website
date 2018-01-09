@@ -49,8 +49,8 @@
                     <li><a href="#team">Community</a></li>
           <li><a href="#portfolio">Mining & Pool Info</a></li>
 
-                    <li><a href="https://blockchain.xcoinproject.com/" target="_blank">Blockchain Explorer</a></li>
-                    <li><a href="https://xcoin.ddns.net:8081/faucet" target="_blank">xCoin Faucet</a></li>
+                    <li><a href="http://blockchain.xcoinproject.com/" target="_blank">Blockchain Explorer</a></li>
+                    <li><a href="http://xcoin.ddns.net:8081/faucet" target="_blank">xCoin Faucet</a></li>
       </nav><!-- #nav-menu-container -->
     </div>
 </header><!-- #header -->

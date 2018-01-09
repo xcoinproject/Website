@@ -36,7 +36,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="#hero"><img src="http://www.xcoinproject.com/xcoin.png" alt="" title="" height=128 /></img></a>
+        <a href="#hero"><img src="https://www.xcoinproject.com/xcoin.png" alt="" title="" height=128 /></img></a>
         <!-- Uncomment below if you prefer to use a text logo -->
         <!--<h1><a href="#hero">Regna</a></h1>-->
       </div>
@@ -49,8 +49,8 @@
                     <li><a href="#team">Community</a></li>
           <li><a href="#portfolio">Mining & Pool Info</a></li>
 
-                    <li><a href="http://blockchain.xcoinproject.com/" target="_blank">Blockchain Explorer</a></li>
-                    <li><a href="http://xcoin.ddns.net:8081/faucet" target="_blank">xCoin Faucet</a></li>
+                    <li><a href="https://blockchain.xcoinproject.com/" target="_blank">Blockchain Explorer</a></li>
+                    <li><a href="https://xcoin.ddns.net:8081/faucet" target="_blank">xCoin Faucet</a></li>
       </nav><!-- #nav-menu-container -->
     </div>
 </header><!-- #header -->
@@ -60,11 +60,11 @@
   ============================-->
   <section id="hero">
     <div class="hero-container">
-    <img src=http://www.xcoinproject.com/xcoin.png height=128 width=128>
+    <img src=https://www.xcoinproject.com/xcoin.png height=128 width=128>
       <h1>xCoin Project</h1>
       <h2>xCoin is a new altcoin cryptocurrency with a really cool name</h2>
       <a href="#about" class="btn-get-started">Learn more</a>
-      <br><br><font size=2><a href=http://www.xcoinproject.com/index2.html>our old, simple website</a></font>
+      <br><br><font size=2><a href=https://www.xcoinproject.com/index2.html>our old, simple website</a></font>
     </div>
   </section><!-- #hero -->
 
@@ -162,22 +162,22 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="box">
-              <div class="icon"><a href="http://xcoinproject.com/xcoin-0.1.1.zip"><i class="fa fa-windows"></i></a></div>
-              <h4 class="title"><a href="http://xcoinproject.com/xcoin-0.1.1.zip">Windows</a></h4>
+              <div class="icon"><a href="https://xcoinproject.com/xcoin-0.1.1.zip"><i class="fa fa-windows"></i></a></div>
+              <h4 class="title"><a href="https://xcoinproject.com/xcoin-0.1.1.zip">Windows</a></h4>
               <p class="description">Wallet software for Windows operating systems. Click the icon to download (.zip).</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
             <div class="box">
-              <div class="icon"><a href="http://xcoinproject.com/xcoin-Qt.dmg"><i class="fa fa-apple"></i></a></div>
-              <h4 class="title"><a href="http://xcoinproject.com/xcoin-Qt.dmg">Mac OSX</a></h4>
+              <div class="icon"><a href="https://xcoinproject.com/xcoin-Qt.dmg"><i class="fa fa-apple"></i></a></div>
+              <h4 class="title"><a href="https://xcoinproject.com/xcoin-Qt.dmg">Mac OSX</a></h4>
               <p class="description">Wallet software for Mac OSX (High Sierra). Click the icon to download (.dmg).</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
             <div class="box">
-              <div class="icon"><a href="http://xcoinproject.com/xcoin_1.1-1_amd64.deb"><i class="fa fa-linux"></i></a></div>
-              <h4 class="title"><a href="http://xcoinproject.com/xcoin_1.1-1_amd64.deb">Linux</a></h4>
+              <div class="icon"><a href="https://xcoinproject.com/xcoin_1.1-1_amd64.deb"><i class="fa fa-linux"></i></a></div>
+              <h4 class="title"><a href="https://xcoinproject.com/xcoin_1.1-1_amd64.deb">Linux</a></h4>
               <p class="description">Wallet software for Linux. Click the icon to download (amd64 .deb).</p>
             </div>
           </div>

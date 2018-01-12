@@ -89,7 +89,7 @@
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-th"></i></div>
               <h4 class="title"><a href="">Pre-Mine</a></h4>
-              <p class="description">The first 130 blocks recieved a 10,000 XCOIN bonus. This is a very small pre-mine, representing under 2.5% of the maximum supply.</p>
+              <p class="description">The first 130 blocks received a 10,000 XCOIN bonus. This is a very small pre-mine, representing under 2.5% of the maximum supply.</p>
             </div>
 <br><br>  
           </div>
@@ -104,7 +104,7 @@
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-th"></i></div>
               <h4 class="title"><a href="">Block Spacing</a></h4>
-              <p class="description">Approximately 5.25 minutes.<br>Difficutly recalculation every 3840 blocks.</p>
+              <p class="description">Approximately 5.25 minutes.<br>Difficulty recalculation every 3840 blocks.</p>
             </div>
 <br><br> 
           </div>

@@ -331,7 +331,7 @@
               <img src="img/portfolio/minerion.png" alt="">
               <div class="details">
                 <h4>Minerion.com</h4>
-                <span>0.1% Fee</span>
+                <span>0.2% Fee</span>
               </div>
             </a>
           </div>
